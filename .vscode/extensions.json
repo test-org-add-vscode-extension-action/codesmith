@@ -13,6 +13,8 @@
     "jasonnutter.search-node-modules",
     "jock.svg",
     "mikestead.dotenv",
-    "vscode-icons-team.vscode-icons"
+    "vscode-icons-team.vscode-icons",
+    "ms-vscode.cpptools",
+    "ms-python.python"
   ]
 }
